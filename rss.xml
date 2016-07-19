@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kjc Prints]]></title>
         <description><![CDATA[Kjc Prints]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kjc-prints/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 16:37:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jul 2016 16:37:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kjc-prints/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b1a0009a789b11b0fb3f14211e30f09/croprotate.jpg?cropheight=2847&cropwidth=4288&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa12539f8-667b-4dae-ad83-acea01eda8fd.jpg&x=0&y=0" alt="Twins">]]></description>
+            <link>https://thegrid.ai/kjc-prints/twins/index.html</link>
+            <guid isPermaLink="false">ceac895a-edd0-49d0-8716-864ee33e8bb7</guid>
+            <pubDate>Mon, 18 Jul 2016 16:37:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56a428f8-a2b2-4f0d-8538-1d911321236b.jpg">]]></description>
-            <link>undefined6dbd0855-0c0a-41d8-a689-a33e55cf428c/index.html</link>
+            <link>https://thegrid.ai/kjc-prints/6dbd0855-0c0a-41d8-a689-a33e55cf428c/index.html</link>
             <guid isPermaLink="false">6dbd0855-0c0a-41d8-a689-a33e55cf428c</guid>
             <pubDate>Mon, 18 Jul 2016 16:37:14 GMT</pubDate>
         </item>
