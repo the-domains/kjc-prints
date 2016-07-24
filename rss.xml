@@ -4,8 +4,15 @@
         <description><![CDATA[Kjc Prints]]></description>
         <link>https://thegrid.ai/kjc-prints/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 17:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 19:20:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kjc-prints/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7cf5d69d1ecca276b3aeb029e72fbeb8/croprotate.jpg?cropheight=1840&cropwidth=2900&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F56a428f8-a2b2-4f0d-8538-1d911321236b.jpg&x=0&y=0">]]></description>
+            <link>https://thegrid.ai/kjc-prints/6dbd0855-0c0a-41d8-a689-a33e55cf428c/index.html</link>
+            <guid isPermaLink="false">6dbd0855-0c0a-41d8-a689-a33e55cf428c</guid>
+            <pubDate>Sun, 24 Jul 2016 19:20:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/586c6bf1-b2e8-4bcf-8fd1-0fa0044b6741.jpg">]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/kjc-prints/twins/index.html</link>
             <guid isPermaLink="false">ceac895a-edd0-49d0-8716-864ee33e8bb7</guid>
             <pubDate>Mon, 18 Jul 2016 16:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56a428f8-a2b2-4f0d-8538-1d911321236b.jpg">]]></description>
-            <link>https://thegrid.ai/kjc-prints/6dbd0855-0c0a-41d8-a689-a33e55cf428c/index.html</link>
-            <guid isPermaLink="false">6dbd0855-0c0a-41d8-a689-a33e55cf428c</guid>
-            <pubDate>Mon, 18 Jul 2016 16:37:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
