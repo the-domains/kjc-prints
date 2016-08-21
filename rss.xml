@@ -4,8 +4,15 @@
         <description><![CDATA[Kjc Prints]]></description>
         <link>https://thegrid.ai/kjc-prints/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 17:59:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 18:00:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kjc-prints/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/63fe4c0a6a803104940ec15bc1114a5b/croprotate.jpg?cropheight=2847&cropwidth=4288&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0ec4513b-bbe7-45db-b679-c5836e39e110.jpg&x=0&y=0">]]></description>
+            <link>https://thegrid.ai/kjc-prints/6566ac31-2778-4ca5-8edb-1b1e5bc2a0c1/index.html</link>
+            <guid isPermaLink="false">6566ac31-2778-4ca5-8edb-1b1e5bc2a0c1</guid>
+            <pubDate>Sun, 21 Aug 2016 18:00:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b1a0009a789b11b0fb3f14211e30f09/croprotate.jpg?cropheight=2847&cropwidth=4288&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa12539f8-667b-4dae-ad83-acea01eda8fd.jpg&x=0&y=0" alt="Twins">]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/kjc-prints/f16fb97b-f0ea-4ea6-bf24-8c5e69eda041/index.html</link>
             <guid isPermaLink="false">f16fb97b-f0ea-4ea6-bf24-8c5e69eda041</guid>
             <pubDate>Mon, 18 Jul 2016 16:54:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ec4513b-bbe7-45db-b679-c5836e39e110.jpg">]]></description>
-            <link>https://thegrid.ai/kjc-prints/6566ac31-2778-4ca5-8edb-1b1e5bc2a0c1/index.html</link>
-            <guid isPermaLink="false">6566ac31-2778-4ca5-8edb-1b1e5bc2a0c1</guid>
-            <pubDate>Mon, 18 Jul 2016 16:37:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
