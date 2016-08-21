@@ -4,8 +4,15 @@
         <description><![CDATA[Kjc Prints]]></description>
         <link>https://thegrid.ai/kjc-prints/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 21:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 17:59:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kjc-prints/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b1a0009a789b11b0fb3f14211e30f09/croprotate.jpg?cropheight=2847&cropwidth=4288&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa12539f8-667b-4dae-ad83-acea01eda8fd.jpg&x=0&y=0" alt="Twins">]]></description>
+            <link>https://thegrid.ai/kjc-prints/twins/index.html</link>
+            <guid isPermaLink="false">ceac895a-edd0-49d0-8716-864ee33e8bb7</guid>
+            <pubDate>Sun, 21 Aug 2016 17:59:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dd4e1e97af8937452b026a2a984addd3/croprotate.jpg?cropheight=2830&cropwidth=4256&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6b53a474-e5d7-46c6-8d23-11aa2333dd17.jpg&x=0&y=0">]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/kjc-prints/6566ac31-2778-4ca5-8edb-1b1e5bc2a0c1/index.html</link>
             <guid isPermaLink="false">6566ac31-2778-4ca5-8edb-1b1e5bc2a0c1</guid>
             <pubDate>Mon, 18 Jul 2016 16:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b1a0009a789b11b0fb3f14211e30f09/croprotate.jpg?cropheight=2847&cropwidth=4288&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa12539f8-667b-4dae-ad83-acea01eda8fd.jpg&x=0&y=0" alt="Twins">]]></description>
-            <link>https://thegrid.ai/kjc-prints/twins/index.html</link>
-            <guid isPermaLink="false">ceac895a-edd0-49d0-8716-864ee33e8bb7</guid>
-            <pubDate>Mon, 18 Jul 2016 16:37:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
